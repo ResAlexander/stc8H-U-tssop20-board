@@ -1,4 +1,6 @@
+🖼️ **[画廊 Board Gallery](#gallery)**
 👋 **Not a Chinese speaker? [Jump to English Version! 🚀](#english-version)**
+
 # STC8H8K64U-45I-_TSSOP20_ Core Board || 最小系统板
 ### 兼容大多数STC8H\_K\_\_U _TSSOP20_ MCUs
 
@@ -8,10 +10,14 @@
 <br><br><br>
 
 ---
-# <a id="english-version"></a>STC8H8K64U-45I-_TSSOP20_ Core Board
+# <a id="english-version">STC8H8K64U-45I-_TSSOP20_ Core Board</a>
 ### Compatible with most STC8H\_K\_\_U _TSSOP20_ MCUs
 
 This is a minimalist development board designed for the STC8H8K64U-45I- _TSSOP20_ MCU.<br>
 I created this board as a dedicated platform to debug and validate hardware/firmware solutions before integrating this MCU into my other primary projects.
 <br>
 Can also be used for solution verification in other projects based on the STC8H*K\*\*U-\**I-_TSSOP20_ microcontroller.
+
+---
+## <a id="gallery">Gallery</a>
+<img src="pcb_eda_top" width="max" height="auto" alt="preview of top layer">
