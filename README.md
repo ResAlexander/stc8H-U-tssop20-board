@@ -1,5 +1,7 @@
-🖼️ **[画廊 Board Gallery](#gallery)**
+🖼️ **[画廊 Gallery](#gallery)**<br>
 👋 **Not a Chinese speaker? [Jump to English Version! 🚀](#english-version)**
+
+<img src="pcb_eda_top.png" width="max" height="auto" alt="preview of top layer">
 
 # STC8H8K64U-45I-_TSSOP20_ Core Board || 最小系统板
 ### 兼容大多数STC8H\_K\_\_U _TSSOP20_ MCUs
@@ -20,4 +22,4 @@ Can also be used for solution verification in other projects based on the STC8H*
 
 ---
 ## <a id="gallery">Gallery</a>
-<img src="pcb_eda_top" width="max" height="auto" alt="preview of top layer">
+<img src="pcb_eda_top.png" width="max" height="auto" alt="preview of top layer">
