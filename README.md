@@ -1,9 +1,9 @@
+<img src="pcb_eda_top.png" width="max" height="auto" alt="preview of top layer">
+
 🖼️ **[画廊 Gallery](#gallery)**<br>
 👋 **Not a Chinese speaker? [Jump to English Version! 🚀](#english-version)**
 
-<img src="pcb_eda_top.png" width="max" height="auto" alt="preview of top layer">
-
-# STC8H8K64U-45I-_TSSOP20_ Core Board || 最小系统板
+# STC8H8K64U-45I-_TSSOP20_ 最小系统板
 ### 兼容大多数STC8H\_K\_\_U _TSSOP20_ MCUs
 
 为STC8H8K64U-45I- _TSSOP20_ 设计的极简开发板。<br>
