@@ -9,6 +9,7 @@
 # \[Verified 已验证] STC8H8K64U _TSSOP20_ Core Board || 最小系统板
 ### 兼容大多数STC8H\_K\_\_U _TSSOP20_ MCUs
 ### Compatible with most STC8H\_K\_\_U _TSSOP20_ MCUs
+### ほとんどの STC8H_K__U (TSSOP20) マイコンと互換性があります。
 
 <!--cover-->
 <!-- <img src="pcb_eda_top.png" width="max" height="auto" alt="preview of top layer"> -->
