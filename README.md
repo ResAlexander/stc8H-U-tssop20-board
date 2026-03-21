@@ -39,7 +39,7 @@
 3. tssop20封装可能挺难焊。手工焊接的话，**不管烙铁还是风枪，都请准备好吸锡带和助焊剂。**
 
 
-
+------
 
 A minimalist dev board for STC8H8K64U-45I (TSSOP20)—plug it straight into your breadboard and start messing around! owo<br>
 Originally designed as a testbed for another project of mine that uses this MCU. It’s perfect for debugging and proof-of-concept (PoC) work.<br>
@@ -53,10 +53,12 @@ You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based desig
 2. No On-board Buttons: This project lacks physical Boot/Reset buttons. If you need to toggle download modes or reset the chip, please use jumpers or external buttons.
 3. Soldering Challenge: The TSSOP20 package can be a pain to solder by hand. Whether you're using a soldering iron or a hot air station, keep your solder wick and flux handy!
 
+------
 
-(Google Geminiによる翻訳）
-STC8H8K64U-45I (TSSOP20) 向け極小開発ボード。ブレッドボードに直挿しして「いじり倒し」ちゃってください =w=
-開発のきっかけは、このマイコンを使う別のプロジェクトのデバッグとプロトタイプ検証用です。他の STC8H_K__U-__I (TSSOP20) ベースのプロジェクトの検証にも使い回せます。
+(Google Geminiによる翻訳）<br>
+STC8H8K64U-45I (TSSOP20) 向け極小開発ボード。ブレッドボードに直挿しして「いじり倒し」ちゃってください =w=<br>
+開発のきっかけは、このマイコンを使う別のプロジェクトのデバッグとプロトタイプ検証用です。他の STC8H_K__U-__I (TSSOP20) ベースのプロジェクトの検証にも使い回せます。<br>
+
 ### 注意事項
 
    1. USB Type-A メス端子採用： はんだ付けしやすさを優先し、給電と書き込み用に Type-A メスを採用しました。
