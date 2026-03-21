@@ -48,7 +48,7 @@
 ### @brief
 A minimalist dev board for STC8H8K64U-45I (TSSOP20)—plug it straight into your breadboard and start messing around! owo<br>
 Originally designed as a testbed for another project of mine that uses this MCU. It’s perfect for debugging and proof-of-concept (PoC) work.<br>
-You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based designs.<br>
+You can also use it for verifying any other STC8H_K__U-__I _TSSOP20_ based designs.<br>
 <br>
 
 ### Important Notes
@@ -56,7 +56,7 @@ You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based desig
 1. USB Type-A Port: For easier soldering, I used a Type-A female socket for power and flashing.
 * Note: You'll need a USB-A to USB-A cable. If you're picking one up on Amazon or similar, feel free to remove it from the BOM.
 2. No On-board Buttons: This project lacks physical Boot/Reset buttons. If you need to toggle download modes or reset the chip, please use jumpers or external buttons.
-3. Soldering Challenge: The TSSOP20 package can be a pain to solder by hand. Whether you're using a soldering iron or a hot air station, keep your solder wick and flux handy!
+3. Soldering Challenge: The TSSOP20 package can be a pain to solder by hand. **Whether you're using a soldering iron or a hot air station, keep your solder wick and flux handy!**
 
 ------
 
@@ -64,14 +64,14 @@ You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based desig
 (Google Geminiによる翻訳
 ### @brief
 STC8H8K64U-45I (TSSOP20) 向け極小開発ボード。ブレッドボードに直挿しして「いじり倒し」ちゃってください =w=<br>
-開発のきっかけは、このマイコンを使う別のプロジェクトのデバッグとプロトタイプ検証用です。他の STC8H_K__U-__I (TSSOP20) ベースのプロジェクトの検証にも使い回せます。<br>
+開発のきっかけは、このマイコンを使う別のプロジェクトのデバッグとプロトタイプ検証用です。他の STC8H_K__U-__I _TSSOP20_ ベースのプロジェクトの検証にも使い回せます。<br>
 
 ### 注意事項
 
    1. USB Type-A メス端子採用： はんだ付けしやすさを優先し、給電と書き込み用に Type-A メスを採用しました。
    * オス－オスのUSBケーブルが必要です。Amazonなどで別途購入する場合は、BOM（部品表）からケーブルを削除してください。
    2. ボタン類なし： Boot/Resetボタンは載せていません。書き込み切り替えやリセットが必要な場合は、ジャンパピンや外付けボタンで対応してください。
-   3. はんだ付けの難易度： TSSOP20パッケージは手はんだだと少し手強いかもしれません。コテでもヒートガンでも、吸取線とフラックスを必ず用意しておいてください。
+   3. はんだ付けの難易度： TSSOP20パッケージは手はんだだと少し手強いかもしれません。**コテでもヒートガンでも、吸取線とフラックスを必ず用意しておいてください。**
 
 
 <!--
