@@ -2,7 +2,8 @@
 
 <!--传送门-->
 <!-- 🖼️ **[画廊 Gallery](#gallery)**（有实物图哦）<br> -->
-<!--👋 **Not a Chinese speaker? [Jump to English Version! 🚀](#english-version)**-->
+**Not a Chinese speaker? [Jump to English Version! 🚀](#english-version)**  
+**日本語をお探しですか？ [日本語版へジャンプ！ 🇯🇵](#japanese-version)**
 
 <!--标题-->
 # \[Verified 已验证] STC8H8K64U _TSSOP20_ Core Board || 最小系统板
@@ -27,6 +28,7 @@
   </tr>
 </table>
 
+### @brief
 为STC8H8K64U-45I- _TSSOP20_ 设计的极简开发板，可以直接插在面包板上调戏awa<br>
 设计初衷是，自己有另一个需要该单片机的项目，需要先用此项目进行调试和方案验证<br>
 也可用于其它 基于 STC8H_K__U-__I- _TSSOP20_ 项目 的方案验证<br>
@@ -41,6 +43,8 @@
 
 ------
 
+<a id="english-version"></a>
+### @brief
 A minimalist dev board for STC8H8K64U-45I (TSSOP20)—plug it straight into your breadboard and start messing around! owo<br>
 Originally designed as a testbed for another project of mine that uses this MCU. It’s perfect for debugging and proof-of-concept (PoC) work.<br>
 You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based designs.<br>
@@ -55,7 +59,9 @@ You can also use it for verifying any other STC8H_K__U-__I (TSSOP20) based desig
 
 ------
 
-(Google Geminiによる翻訳）<br>
+<a id="japanese-version"></a>
+(Google Geminiによる翻訳
+### @brief
 STC8H8K64U-45I (TSSOP20) 向け極小開発ボード。ブレッドボードに直挿しして「いじり倒し」ちゃってください =w=<br>
 開発のきっかけは、このマイコンを使う別のプロジェクトのデバッグとプロトタイプ検証用です。他の STC8H_K__U-__I (TSSOP20) ベースのプロジェクトの検証にも使い回せます。<br>
 
